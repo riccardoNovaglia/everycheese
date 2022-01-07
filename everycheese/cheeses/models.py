@@ -24,4 +24,4 @@ class Cheese(TimeStampedModel):
     )
 
     def __str__(self) -> str:
-        return f"I am {self.name}"
+        return self.name
