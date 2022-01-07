@@ -1,0 +1,23 @@
+fileignoreconfig:
+- filename: everycheese/templates/account/password_change.html
+  checksum: 0b72000eb956e0893bc61e8ba6c143c498094b5ef4f38882c00083bfa40f646c
+  ignore_detectors: []
+- filename: everycheese/templates/account/password_reset.html
+  checksum: 750de16712bbbfa715ebe170074efb5a7afc6cbbe3cfc6b26c51b0b4b2130b64
+  ignore_detectors: []
+- filename: everycheese/templates/account/password_reset_done.html
+  checksum: 1b22aece6656f38f8b14346a6591727507615c24ed46463b38af8600b792199a
+  ignore_detectors: []
+- filename: everycheese/templates/account/password_reset_from_key.html
+  checksum: 0cfd7fbab093feb29bcc45c48ed6800bc224c60401ae6035cbb7d55b025d5d6f
+  ignore_detectors: []
+- filename: everycheese/templates/account/password_reset_from_key_done.html
+  checksum: 02ddb97686910a818a6ce9b2c9b984a5716b3c98a37ab61f5df1c9a7925f9fc1
+  ignore_detectors: []
+- filename: everycheese/templates/account/password_set.html
+  checksum: ffc4196d848a3672dcc27b90f6168f613cf0acc14a6ea90879d4700efbe5b2f7
+  ignore_detectors: []
+- filename: everycheese/templates/base.html
+  checksum: 07e20161fa6e132543ea5ee52727005685b3e2c7f1c4d23beaefacdba19a6c21
+  ignore_detectors: []
+scopeconfig: []
